@@ -987,7 +987,7 @@
         "type": "color"
       },
       "On Surface Variant": {
-        "value": "{Grey.500}",
+        "value": "{Grey.600}",
         "type": "color"
       }
     },
@@ -1006,6 +1006,12 @@
         "letterSpacing": "{letter-spacing--0,6}"
       },
       "type": "typography"
+    },
+    "Button": {
+      "Fill": {
+        "value": "{Blue.500}",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
